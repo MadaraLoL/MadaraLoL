@@ -1,16 +1,21 @@
-### Hi there 👋
+from GitHub import ReadMe
 
-<!--
-**MadaraLoL/MadaraLoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class MadaraLoL(ReadMe):
+     "/Mad/MadaraBozo/README.md"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = "MadaraLoL"
+        self.contacts = {
+            "Discord": "madara.#0001"
+            "Discord server": "discord.gg/swatted"
+        }
+        self.alises = [
+            "Madara",
+            "LilNut"
+            "Joker"
+            "Spazmic"
+        ]
+        self.location = "USA"
+        self.age = "15"
+        self.occupation = "Whatever i feel like when i feel like it"
+        self.operating_system = "Windows 10, KaliLinux, ubuntu, MakuluLinux"
