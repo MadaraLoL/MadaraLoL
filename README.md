@@ -1,3 +1,5 @@
+```python
+
 from GitHub import ReadMe
 
 class MadaraLoL(ReadMe):
@@ -20,3 +22,4 @@ class MadaraLoL(ReadMe):
         self.gender = "male"
         self.occupation = "Whatever i feel like when i feel like it"
         self.operating_system = "Windows 10, KaliLinux, ubuntu, MakuluLinux"
+        ```
