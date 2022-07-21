@@ -13,6 +13,7 @@ class MadaraLoL(ReadMe):
         }
         self.alises = [
             "Madara",
+            "syke"
             "LilNut"
             "Joker"
             "Spazmic"
