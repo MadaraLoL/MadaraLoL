@@ -20,7 +20,7 @@ class MadaraLoL(ReadMe):
             "Spazmic"
         ]
         self.location = "USA"
-        self.age = "15"
+        self.age = "16"
         self.gender = "male"
         self.occupation = "Whatever i feel like when i feel like it"
         self.operating_system = "Windows 10, KaliLinux, ubuntu, MakuluLinux"
